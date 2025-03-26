@@ -136,7 +136,17 @@ Task:
 ![Рисунок 12](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_12.jpg)  
 ![Рисунок 13](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_13.jpg)  
 
+Вернtv задачи в статус Open - Согласно задания
 
+## Scrum-доска и спринт
+![Рисунок 14](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_14.jpg)  
 
+Создадим спринт и перетащим на него задачи
+![Рисунок 14](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_14.jpg)  
 
-
+Стартуем спринт
+![Рисунок 15](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_15.jpg)  
+![Рисунок 16](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_16.jpg)  
+![Рисунок 17](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_17.jpg)  
+![Рисунок 18](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_18.jpg)  
+![Рисунок 19](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_19.jpg)  
