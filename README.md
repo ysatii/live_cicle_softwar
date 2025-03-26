@@ -153,5 +153,5 @@ Task:
 ![Рисунок 19](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_19.jpg)  
 
 ## Файлы с workflow и скриншоты workflow
-[Bug_Workflow.](https://github.com/ysatii/live_cicle_softwar/blob/main/Bug_Workflow.xml)
-[Simple_Workflow](https://github.com/ysatii/live_cicle_softwar/blob/main/Simple_Workflow.xml)
+[Bug_Workflow.](https://github.com/ysatii/live_cicle_softwar/blob/main/Bug_Workflow.xml)  
+[Simple_Workflow](https://github.com/ysatii/live_cicle_softwar/blob/main/Simple_Workflow.xml)  
