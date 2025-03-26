@@ -43,3 +43,21 @@
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 ---
+
+# Решение
+
+## Установка Jira.
+### Установим Jira с помощью docker используя инструкцию  
+[docker образ Jira ](https://hub.docker.com/r/atlassian/jira-software/#)
+
+устновим pgsql командой 
+```sh
+sudo -i docker run -d   --name jira-postgres   -e POSTGRES_DB=jiradb   -e POSTGRES_USER=jirauser   -e POSTGRES_PASSWORD=секретный_пароль   -p 5432:5432   postgres:13
+Unable to find image 'postgres:13' locally
+```
+
+установим Jira командой 
+```sh
+docker volume create --name jiraVolume
+docker run -v jiraVolume:/var/atlassian/application-data/jira --name="jira" -d -p 8080:8080 atlassian/jira-software
+```
