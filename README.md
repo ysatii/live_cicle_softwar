@@ -77,7 +77,7 @@ On test	       | In Progress
 Done	       | Done  
 Closed	       | Done  
 
-[Рисунок 1]!(https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_1.jpg)
+![Рисунок 1](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_1.jpg)  
 
 ### Simple Workflow
 
