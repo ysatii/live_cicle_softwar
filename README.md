@@ -64,20 +64,20 @@ docker run -v jiraVolume:/var/atlassian/application-data/jira --name="jira" -d -
 
 ## Создадим собственные workflow для двух типов задач: bug и остальные типы задач. Задачи типа bug должны проходить жизненный цикл:
 
-### Bug Workflow
+### Bug Workflow 
+  
+Статус     	| Категория  
+-----------------------  
+Open	       | To Do  
+On reproduce   | In Progress  
+Done reproduce | Done  
+On fix	       | In Progress  
+Done fix       | Done  
+On test	       | In Progress  
+Done	       | Done  
+Closed	       | Done  
 
-Статус     	| Категория
------------------
-Open	       | To Do
-On reproduce   | In Progress
-Done reproduce | Done
-On fix	       | In Progress
-Done fix       | Done
-On test	       | In Progress
-Done	       | Done
-Closed	       | Done
-
-
+[Рисунок 1]!(https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_1.jpg)
 
 ### Simple Workflow
 
