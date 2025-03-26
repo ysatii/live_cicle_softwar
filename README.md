@@ -110,16 +110,31 @@ Closed       | Done
 Подтвердите переход (если предложит миграцию задач — соглашаемся с сохранением текущих статусов).  
 
 ## Создание задач и прогон через Kanban
-### Создаём Epic - большая задача                                 "Big Mission"
-### Создаём Task - подзадача                                      "Реализовать фронтенд"  
+### Создаём Epic - большая задача                                  "Big Mission"
+### Создаём Task - подзадача                                       "Реализовать фронтенд"  
 ### Создаём Bug - тип ошибка, требует внесения исправлений в код   "Кнопка не работает"  
 ![Рисунок 5](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_5.jpg)
 ![Рисунок 6](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_6.jpg)
 Задачи созданы!
 
 
+## Kanban-доска и переходы
+Доска типа Kanban создана 
+![Рисунок 7](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_7.jpg)
 
 
+Проведем все задачи через статус
+Bug:
+Через статусы: Open → On reproduce → Done reproduce → On fix → Done fix → On test → Done  
+![Рисунок 8](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_8.jpg)  
+![Рисунок 9](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_9.jpg) 
+
+Task:
+Через: Open → On develop → Done develop → On test → Done  
+![Рисунок 10](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_10.jpg)  
+![Рисунок 11](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_11.jpg)  
+![Рисунок 12](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_12.jpg)  
+![Рисунок 13](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_13.jpg)  
 
 
 
