@@ -92,6 +92,16 @@ Closed       | Done
 
 ![Рисунок 2](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_2.jpg)  
 
+для это нужежно перейти Настройки Issues, Workflows. Создать новые Workflows    Bug Workflow и Simple Workflow  
+Используя **Add status** и **Add transition** нужно добавить статусы шагов и связи  
+![Рисунок 3](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_3.jpg)  
+
+нужно добавить схему  Workflow
+![Рисунок 4](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_4.jpg)  
+и применить ее к проекту!
+
+
+
 
 
 
