@@ -47,7 +47,7 @@
 # Решение
 
 ## Установка Jira.
-### Установим Jira с помощью docker используя инструкцию  
+### Установим Jira с помощью docker используя инструкцию 
 [docker образ Jira ](https://hub.docker.com/r/atlassian/jira-software/#)
 
 устновим pgsql командой 
@@ -61,3 +61,30 @@ Unable to find image 'postgres:13' locally
 docker volume create --name jiraVolume
 docker run -v jiraVolume:/var/atlassian/application-data/jira --name="jira" -d -p 8080:8080 atlassian/jira-software
 ```
+
+## Создадим собственные workflow для двух типов задач: bug и остальные типы задач. Задачи типа bug должны проходить жизненный цикл:
+
+### Bug Workflow
+
+Статус     	| Категория
+-----------------
+Open	       | To Do
+On reproduce   | In Progress
+Done reproduce | Done
+On fix	       | In Progress
+Done fix       | Done
+On test	       | In Progress
+Done	       | Done
+Closed	       | Done
+
+
+
+### Simple Workflow
+
+    Open -> On develop.
+    On develop -> Open, Done develop.
+    Done develop -> On test.
+    On test -> On develop, Done.
+    Done -> Closed, Open.
+
+
