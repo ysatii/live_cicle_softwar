@@ -81,10 +81,18 @@ Closed	       | Done
 
 ### Simple Workflow
 
-    Open -> On develop.
-    On develop -> Open, Done develop.
-    Done develop -> On test.
-    On test -> On develop, Done.
-    Done -> Closed, Open.
+Статус     	| Категория  
+-----------------------  
+Open         | To Do  
+On develop   | In Progress  
+Done develop | Done  
+On test	     | In Progress  
+Done	     | Done  
+Closed       | Done  
+
+![Рисунок 2](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_2.jpg)  
+
+
+
 
 
