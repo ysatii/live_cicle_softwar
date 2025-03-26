@@ -142,11 +142,14 @@ Task:
 ![Рисунок 14](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_14.jpg)  
 
 Создадим спринт и перетащим на него задачи
-![Рисунок 14](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_14.jpg)  
-
-Стартуем спринт
 ![Рисунок 15](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_15.jpg)  
+Стартуем спринт
+
 ![Рисунок 16](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_16.jpg)  
 ![Рисунок 17](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_17.jpg)  
+
+Завершим спринт
 ![Рисунок 18](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_18.jpg)  
 ![Рисунок 19](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_19.jpg)  
+
+
