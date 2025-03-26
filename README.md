@@ -97,8 +97,25 @@ Closed       | Done
 ![Рисунок 3](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_3.jpg)  
 
 нужно добавить схему  Workflow
-![Рисунок 4](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_4.jpg)  
-и применить ее к проекту!
+![Рисунок 4](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_4.jpg) и применить ее к проекту!   
+Перейди в Jira → Settings (⚙) → Issues → Workflow Schemes.  
+Нажми Add Workflow Scheme, назовите, например: Custom Workflow Scheme.  
+Добавьте туда оба workflow:  
+Привяжите Bug Workflow к типу задачи Bug.  
+Привяжите Simple Workflow ко всем остальным типам (Task, Epic, Story и т.д.).  
+
+Применение к проекту   
+Найдите свой проект → Project Settings → Workflows.  
+Нажмите Switch Scheme или Use a different scheme, выбери Custom Workflow Scheme.  
+Подтвердите переход (если предложит миграцию задач — соглашаемся с сохранением текущих статусов).  
+
+## Создание задач и прогон через Kanban
+### Создаём Epic
+### Создаём Task
+### Создаём Bug
+![Рисунок 5](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_5.jpg)
+![Рисунок 6](https://github.com/ysatii/live_cicle_softwar/blob/main/img/img_6.jpg)
+Задачи созданы!
 
 
 
